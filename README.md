@@ -19,6 +19,8 @@ _I learned how to create lists in Markdown_
 
 ![old man](https://media.istockphoto.com/id/1203073335/photo/half-lenght-portrait-of-the-happy-shirtless-old-man-senior-showing-his-biceps-and-looking-at.jpg?s=612x612&w=0&k=20&c=Bqm3mcq_hiRzviI13XU5fTzTb7ztN6cQxlDw-eSfBgw=)
 
-####Mikal
-_I learned how to format real fancy like in markdown!_
+#### Mikal
+
+_I learned how to format real fancy like in markdown_
+
 (https://i.pinimg.com/originals/e1/a9/66/e1a9661efe2bdee4f07a5a03a7ea79c9.jpg)
