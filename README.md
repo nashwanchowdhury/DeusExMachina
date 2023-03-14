@@ -12,7 +12,7 @@ _I learned that git rebase is an alternative method to git merge._
 
 ### Palmer
 
-_I learned how to create lists im Markdown_
+_I learned how to create lists in Markdown_
 
 - _pretty_
 - _cool_
