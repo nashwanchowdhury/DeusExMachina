@@ -24,3 +24,9 @@ _I learned how to create lists in Markdown_
 _I learned how to format real fancy like in markdown_
 
 ![purple cat](https://i.pinimg.com/originals/e1/a9/66/e1a9661efe2bdee4f07a5a03a7ea79c9.jpg)
+
+##### Senna 
+
+_I learned how to merge with the command git merge_
+
+![https://cdnb.artstation.com/p/assets/images/images/020/729/803/medium/arda-hamamcioglu-hamster.jpg?1568930339]
