@@ -29,4 +29,4 @@ _I learned how to format real fancy like in markdown_
 
 _I learned how to merge with the command git merge_
 
-![https://cdnb.artstation.com/p/assets/images/images/020/729/803/medium/arda-hamamcioglu-hamster.jpg?1568930339]
+![Hampter](https://cdnb.artstation.com/p/assets/images/images/020/729/803/medium/arda-hamamcioglu-hamster.jpg?1568930339)
